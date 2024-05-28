@@ -1,2 +1,3 @@
 langchain
 langchain-cli
+pysqlite3-binary
