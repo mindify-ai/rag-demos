@@ -3,3 +3,10 @@ langchain-cli
 langchain-openai
 langchain_chroma
 langchainhub
+datasets
+faiss-gpu
+faiss-cpu
+transformers
+sentencepiece
+pillow
+numpy
